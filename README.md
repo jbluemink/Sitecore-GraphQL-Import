@@ -3,6 +3,8 @@
 Easily migrate content to Sitecore XM Cloud using the Sitecore Authoring and Management GraphQL API.
 See [Seamles Content Migrating with GraphQL](https://uxbee.eu/insights/seamless-content-migration-with-graphql)
 
+Utilizing the Sitecore GraphQL API proves to be an efficient strategy for seamlessly migrating content to Sitecore XM Cloud. This approach leverages the power of GraphQL to streamline the transfer process, ensuring a smooth and structured content including media migration experience.
+
 ## Overview
 This repository provides a C# demo of the Sitecore GraphQL API. The included console app showcases various capabilities, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files. To get started, simply fill in your hostname, API key, and access token in the app.config file.
 
